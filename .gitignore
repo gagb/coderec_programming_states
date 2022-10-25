@@ -1,0 +1,10 @@
+*.p
+*.hd5
+todos.md
+/videos
+/static
+*.mp4
+*.json
+/data
+testing.ipynb
+extended_logs
