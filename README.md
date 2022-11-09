@@ -1,5 +1,7 @@
 # Code and Data for: Reading Between the Lines: Modeling User Behavior and Costs in AI-Assisted Programming
 
+Arxiv link: https://arxiv.org/abs/2210.14306
+
 *Data will be released soon, be on the lookout*
 
 # Installation
@@ -191,6 +193,11 @@ Note that there are other parameters we can change in the code to improve perfor
 Please cite our paper if you use our dataset or code:
 
 ```
-
+@article{mozannar2022reading,
+  title={Reading Between the Lines: Modeling User Behavior and Costs in AI-Assisted Programming},
+  author={Mozannar, Hussein and Bansal, Gagan and Fourney, Adam and Horvitz, Eric},
+  journal={arXiv preprint arXiv:2210.14306},
+  year={2022}
+}
 
 ```
