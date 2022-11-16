@@ -201,3 +201,8 @@ Please cite our paper if you use our dataset or code:
 }
 
 ```
+
+
+# Acknowledgements
+This release is part of research done during an internship at Microsoft Research ([privacy statement](https://privacy.microsoft.com/en-us/privacystatement)) and was based on valuable feedback from colleagues across MSR and GitHub including Saleema Amershi, Victor Dibia, Forough Poursabzi, Andrew Rice, Eirini Kalliamvakou, and Edward Aftandilian.
+
